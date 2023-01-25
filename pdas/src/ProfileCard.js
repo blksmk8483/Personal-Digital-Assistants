@@ -1,4 +1,4 @@
-function ProfileCard({title, handle }) {
+function ProfileCard({title, handle, image }) {
     // ------ I could write this either way, this just get the code lines down by a few more bits... ------
     // OPTION 1 - how I could write this
     // const title = props.title;
@@ -11,6 +11,7 @@ function ProfileCard({title, handle }) {
 
     return (
         <div>
+            <img src={image} alt="profile card"/>
             <div>Title is {title}</div>
             <div>Handle is {handle}</div>
         </div>
