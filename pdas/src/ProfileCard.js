@@ -1,4 +1,4 @@
-function ProfileCard({ title, handle, image }) {
+function ProfileCard({ title, handle, image, description }) {
     // ------ I could write this either way, this just get the code lines down by a few more bits... ------
     // OPTION 1 - how I could write this
     // const title = props.title;
@@ -22,6 +22,7 @@ function ProfileCard({ title, handle, image }) {
                     <p className="title is-4">{title}</p>
                     <p className="subtitle is-6">{handle}</p>
                 </div>
+                <div className="content">{description}</div>
             </div>
         </div>
     );
