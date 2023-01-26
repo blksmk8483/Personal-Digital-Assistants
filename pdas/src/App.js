@@ -23,7 +23,7 @@ function App() {
                             title='Alexa' 
                             handle='@alexa99' 
                             image={AlexaImage}
-                            description='Alexa was created by Amazon and helps you buys things.'
+                            description='Alexa was created by Amazon and helps you buy things.'
                             />
                         </div>
                         <div className='column is-4'>
