@@ -5,6 +5,8 @@ A small static project using React and styling with Bulma.
 - Users can view 3 personal digital assistants.
 - Display of the app image, title, handle, and short description".
 
+[Click here](https://blksmk8483.github.io/Personal-Digital-Assistants/) to try it out yourself.
+
 ![appScreenShot](./pdas/Assets/appScreenShot.png)
 
 ## Purpose
