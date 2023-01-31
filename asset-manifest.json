@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Personal-Digital-Assistants/static/css/main.53bcab0a.css",
+    "main.js": "/Personal-Digital-Assistants/static/js/main.065722df.js",
+    "static/media/siri.png": "/Personal-Digital-Assistants/static/media/siri.e6a70a555204b3a1f6f0.png",
+    "index.html": "/Personal-Digital-Assistants/index.html",
+    "main.53bcab0a.css.map": "/Personal-Digital-Assistants/static/css/main.53bcab0a.css.map",
+    "main.065722df.js.map": "/Personal-Digital-Assistants/static/js/main.065722df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53bcab0a.css",
+    "static/js/main.065722df.js"
+  ]
+}
